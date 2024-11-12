@@ -1,1 +1,3 @@
-# desn3035-e6-template
+# Terms and Conditions of ACME Company
+
+Please refer to the latest PDF document.
